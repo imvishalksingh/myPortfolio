@@ -1,7 +1,7 @@
 {
-  "homepage": "https://<Username>.github.io/<Repository-name>",
+  "homepage": "https://imvishalksingh.github.io/myPortfolio",
   "name": "developer-portfolio",
-  "description": "Portfolio of Abu Said",
+  "description": "Portfolio of Vishal Singh",
   "version": "0.1.0",
   "private": true,
   "scripts": {

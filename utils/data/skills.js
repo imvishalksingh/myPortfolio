@@ -1,4 +1,6 @@
 export const skillsData = [
+ 
+  
   'HTML',
   'CSS',
   'Javascript',
@@ -16,7 +18,26 @@ export const skillsData = [
   'Premiere Pro',
  'Lightroom',
  
-]
+];
+
+export const skillUrls = {
+  HTML: 'https://developer.mozilla.org/en-US/docs/Web/HTML',
+  CSS: 'https://developer.mozilla.org/en-US/docs/Web/CSS',
+  Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
+  Java: 'https://www.java.com/',
+  Kotlin: 'https://kotlinlang.org/',
+  Tailwind: 'https://tailwindcss.com/',
+  MongoDB: 'https://www.mongodb.com/',
+  MySQL: 'https://www.mysql.com/',
+  Git: 'https://git-scm.com/',
+  Bootstrap: 'https://getbootstrap.com/',
+  Figma: 'https://www.figma.com/',
+  Canva: 'https://www.canva.com/',
+  Firebase: 'https://firebase.google.com/',
+  MaterialUI: 'https://mui.com/',
+  Premiere_Pro: 'https://www.adobe.com/products/premiere.html',
+  Lightroom: 'https://www.adobe.com/products/photoshop-lightroom.html',
+};
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
